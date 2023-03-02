@@ -1,0 +1,19 @@
+{
+  "name": "node_course1",
+  "version": "1.0.0",
+  "description": "node course1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Gil Vexberg",
+  "license": "ISC",
+  "dependencies": {
+    "cjs-loader": "^0.1.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
